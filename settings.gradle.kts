@@ -13,4 +13,5 @@ pluginManagement {
 }
 
 rootProject.name = "Kraken-Community-Plugins"
+include(":lodestone-unlocker")
 
