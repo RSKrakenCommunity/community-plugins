@@ -52,8 +52,8 @@ Free plugins for kraken useing the communty api.
 
 # Available Plugins
 1. Miscellaneous
-    1. <a href="https://github.com/RSKrakenCommunity/community-plugins/releases/download/Misc/lodestone-unlocker.jar"><strong>Lodestone Unlocker</strong>
-    2. <a href=""><strong>Quality of Life</strong>
+    1. <a href="https://github.com/RSKrakenCommunity/community-plugins/releases/download/v1.0.0/lodestone-unlocker.jar"><strong>Lodestone Unlocker</strong>
+    2. <a href="https://github.com/RSKrakenCommunity/community-plugins/releases/download/v1.0.0/quality-of-life.jar"><strong>Quality of Life</strong>
 
 
 
