@@ -1,0 +1,16 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        maven("https://jitpack.io")
+    }
+    resolutionStrategy {
+        eachPlugin {
+            if(this.requested.id.id == "kraken.community.plugin") {
+                useModule("com.github.RSKrakenCommunity:Kraken-Gradle-Plugin:master-SNAPSHOT")
+            }
+        }
+    }
+}
+
+rootProject.name = "Kraken-Community-Plugins"
+
