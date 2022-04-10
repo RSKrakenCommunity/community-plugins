@@ -1,5 +1,3 @@
-# community-plugins
-Free Community Plugins for kraken.
 
 
 
@@ -8,14 +6,7 @@ Free Community Plugins for kraken.
 <div align="center">
 <!-- Social buttons -->
 
-[![Donate with Bitcoin](https://en.cryptobadges.io/badge/small/39Gx1yco4GA9zbkSH8yAQU2HvYFHZ9C6Vk)](https://rskrakencommunity.github.io/KrakenCommunityPages/)
 
-[![RSKrakenCommunity - CommunityAPI](https://img.shields.io/static/v1?label=RSKrakenCommunity&message=CommunityAPI&color=blue&logo=github)](https://github.com/RSKrakenCommunity/CommunityAPI "Go to GitHub repo")
-[![stars - CommunityAPI](https://img.shields.io/github/stars/RSKrakenCommunity/CommunityAPI?style=social)](https://github.com/RSKrakenCommunity/CommunityAPI)
-[![forks - CommunityAPI](https://img.shields.io/github/forks/RSKrakenCommunity/CommunityAPI?style=social)](https://github.com/RSKrakenCommunity/CommunityAPI)
-[![](https://jitpack.io/v/RSKrakenCommunity/CommunityAPI.svg)](https://jitpack.io/#RSKrakenCommunity/CommunityAPI)
-
-[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/AcQvydarPx)
 
 
 
@@ -24,13 +15,8 @@ Free Community Plugins for kraken.
  ![Alt Text](https://i.imgur.com/F7FXc6M.png)
    
 <!-- PROJECT Name -->
-# Community Api Plugins
+# Community Plugins
 Free plugins for kraken useing the communty api.
-
-
-
-
-
 
 ### Wiki
 <!-- Wiki Links -->
@@ -55,5 +41,10 @@ Free plugins for kraken useing the communty api.
     1. <a href="https://github.com/RSKrakenCommunity/community-plugins/releases/download/v1.0.0/lodestone-unlocker.jar"><strong>Lodestone Unlocker</strong>
     2. <a href="https://github.com/RSKrakenCommunity/community-plugins/releases/download/v1.0.0/quality-of-life.jar"><strong>Quality of Life</strong>
 
+<div align="center">
 
+[![Donate with Bitcoin](https://en.cryptobadges.io/badge/small/39Gx1yco4GA9zbkSH8yAQU2HvYFHZ9C6Vk)](https://rskrakencommunity.github.io/KrakenCommunityPages/)
 
+[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/AcQvydarPx)
+
+</div>
