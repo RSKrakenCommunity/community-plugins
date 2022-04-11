@@ -12,6 +12,7 @@
 
 
 <!-- PROJECT LOGO -->
+ ![Alt Text](https://i.imgur.com/0ckQLhU.png)
  ![Alt Text](https://i.imgur.com/F7FXc6M.png)
    
 <!-- PROJECT Name -->
