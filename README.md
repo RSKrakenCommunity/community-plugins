@@ -16,7 +16,7 @@
    
 <!-- PROJECT Name -->
 # Community Plugins
-Free plugins for kraken useing the communty api.
+Free plugins for kraken using the community api.
 
 ### Wiki
 <!-- Wiki Links -->
