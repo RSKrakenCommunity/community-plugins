@@ -15,4 +15,5 @@ pluginManagement {
 rootProject.name = "Kraken-Community-Plugins"
 include(":lodestone-unlocker")
 include(":quality-of-life")
+include(":spring-event")
 
