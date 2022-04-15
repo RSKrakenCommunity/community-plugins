@@ -32,17 +32,7 @@ Free plugins for kraken using the community api.
 ### License
 ###### Distributed under the GNU License. See `LICENSE.txt` for more information.
 
-<!-- Jump to top button -->
-<p align="right">(<a href="#top">back to top</a>)</p>
-</div>
 
-
-# Available Plugins
-1. Miscellaneous
-    1. ![GitHub release (latest by date and asset)](https://img.shields.io/github/downloads/RSKrakenCommunity/community-plugins/v1.0.0/lodestone-unlocker.jar)
-    2. ![GitHub release (latest by date and asset)](https://img.shields.io/github/downloads/RSKrakenCommunity/community-plugins/v1.0.0/quality-of-life.jar)
-
-<div align="center">
 
 [![Donate with Bitcoin](https://en.cryptobadges.io/badge/small/39Gx1yco4GA9zbkSH8yAQU2HvYFHZ9C6Vk)](https://rskrakencommunity.github.io/KrakenCommunityPages/)
 
