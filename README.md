@@ -35,6 +35,7 @@ C:\Users\YOURUSERNAME\Documents\Kraken
 
 Once you have found the kraken folder place the .jar inside of it and restart kraken. 
 
+If you need help setting up kraken for the first time please read this <a href="https://github.com/RSKrakenCommunity/CommunityAPI/wiki/Setting-up-Kraken-Bot"><strong> article </strong></a>. 
 
 
 
