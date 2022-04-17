@@ -19,6 +19,25 @@
 # Community Plugins
 Free plugins for kraken using the community api.
 
+
+
+### How to Install Plugins.
+<!-- Install -->
+Start by downloading a .jar inside<a href="https://github.com/RSKrakenCommunity/community-plugins/releases"><strong> releaces </strong></a>.
+
+Once you have obtained the .jar of the script you would like to use. Open up File explorer
+![image](https://user-images.githubusercontent.com/2714425/163708356-1a6df443-cccf-4961-b42d-5cec4592b40e.png)
+
+Then go to your documents folder and find the Kraken folder.
+C:\Users\YOURUSERNAME\Documents\Kraken
+
+![image](https://user-images.githubusercontent.com/2714425/163708430-05067e21-c9c5-4c50-9b88-f7e9eabf1b3d.png)
+
+Once you have found the kraken folder place the .jar inside of it and restart kraken. 
+
+
+
+
 ### Wiki
 <!-- Wiki Links -->
 ###### Make sure you read the <a href="https://github.com/RSKrakenCommunity/CommunityAPI/wiki"><strong> Wiki</strong></a> for guides and information on how to use the community API.
